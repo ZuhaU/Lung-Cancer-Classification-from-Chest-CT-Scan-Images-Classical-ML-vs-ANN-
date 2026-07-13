@@ -1,4 +1,4 @@
-# Lung-Cancer-Classification-from-Chest-CT-Scan-Images-Classical-ML-vs-ANN-
+# Lung-Cancer-Classification-from-Chest-CT-Scan-Images-Classical-ML-vs-ANN
 
 # Chest CT-Scan Classification
 
