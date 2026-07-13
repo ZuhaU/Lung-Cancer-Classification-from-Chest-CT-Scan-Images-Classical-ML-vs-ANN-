@@ -24,9 +24,14 @@ This project implements a multi-class image classification system to detect lung
 * pandas / numpy
 * matplotlib / seaborn
 
+## Results
+
+Logistic Regression achieved the best performance with 98.12% test accuracy, followed by SVM and Random Forest at 92-95%. The ANN reached 91.13% accuracy. Classical ML models outperformed the ANN on this dataset, showing that for small, structured medical imaging datasets, traditional models remain highly competitive.
+
 ## Files Included
 
 * ChestCTScanClassfication.ipynb
+
 
 
 Detailed documentation, methodology, and results are available directly in the project notebook.
